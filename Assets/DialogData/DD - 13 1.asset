@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c0f578d138157b458cf80284968dfb4, type: 3}
+  m_Name: DD - 13 1
+  m_EditorClassIdentifier: 
+  _type: 0
+  _mainStep: 13
+  _subStep: 1
+  _text: I have to be honest with you, I feel a little bit tired of all this.*I was
+    never really looking for a random player, but more like... a friend.*Someone
+    who would accept to help me shut down...
+  _audioKeyOpenCloseChannel: playerWalkieStatic
+  _audioKeyDialogVoice: playerWalkieOn
+  _audioKeyDidaPopup: didascalie
+  _whoTriggers: 1
+  _delayAfterPreviousToTriggerByGame: 2
+  _introSilentDuration: 1
+  _textDuration: 6
+  _outroSilentDuration: 1
+  _setInteractableWhenOver: 0
+  _setInteractableDelay: 0
+  _increaseStoryAndAnimatorProgress: 0
+  _stopPlayerInteractionWhileMessage: 1
+  _glitchID: -1
+  _waitSecForFX: 0

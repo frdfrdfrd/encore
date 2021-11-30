@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c0f578d138157b458cf80284968dfb4, type: 3}
+  m_Name: DialogData 9 0 mustPlaceholder
+  m_EditorClassIdentifier: 
+  _mainStep: 9
+  _subStep: 0
+  _text: Sometimes I dream of a place, quite hard to describe. Maybe you can help
+    me.
+  _audioKeyOpenCloseChannel: playerWalkieStatic
+  _audioKeyDialogVoice: playerWalkieOn
+  _whoTriggers: 1
+  _delayAfterPreviousToTriggerByGame: 0.6
+  _introSilentDuration: 1
+  _textDuration: 6
+  _outroSilentDuration: 2
+  _setInteractableWhenOver: 1
+  _setInteractableDelay: 2
+  _increaseStoryAndAnimatorProgress: 0
